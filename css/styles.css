@@ -752,7 +752,8 @@ margin-bottom: 16px;
 margin-bottom: 8px;
 }
 
-.review-form-field-label {display: block;
+.review-form-field-label {
+display: block;
 color: #8E8F99;
 font-size: 12px;
 font-weight: 400;
